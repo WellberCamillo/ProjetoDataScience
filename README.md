@@ -1,6 +1,6 @@
 ## Data Science com Python - Udemy
 
-# Projeto Ice Cream - Utilizando Dataset do site **Kaggle** de vendas de sorvetes
+# Projeto Ice Cream - Utilizando Dataset do site ** Kaggle ** de vendas de sorvetes
 
 * Nesse projeto podemos visualizar no gráfico, quanto mais quente a temperatura maior as vendas de sorvetes.
 
