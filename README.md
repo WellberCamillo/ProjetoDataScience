@@ -2,7 +2,7 @@
 
 # Projeto Ice Cream - Utilzando Dataset do site Kaggle de vendas de sortes.
 
-* Nesse projeto podemos visualizar no quafico, quanto mais quente a temperatura maior a venda de sorvetes.
+* Nesse projeto podemos visualizar no gráfico, quanto mais quente a temperatura maior as vendas de sorvetes.
 
 * Utilizamos as bibliotecas Pandas / Matplotlib / Numpy 
 
