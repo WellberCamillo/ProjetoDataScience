@@ -8,8 +8,8 @@
 
 # Manipulação dos dados
 
-* Classicação da temperatura da maior para menor
+* Classificação da temperatura da maior para menor
 * Arredondamento das casas decimais
-* Convertendo temperaturo de Fahrenheit para Celsius
+* Convertendo a temperatura de Fahrenheit para Celsius
 * Criação do Gráfico
 * Exportando o arquivo para PDF
